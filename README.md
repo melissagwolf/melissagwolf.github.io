@@ -9,7 +9,11 @@ Between 2010 and 2019, I exclusively used the point and click software (SPSS) fo
 1. If any of this coding stuff seems insurmountable, I promise you: it isn't.  The reason that I know it isn't is because I am somehow doing it.
 2. Yes, it's worth it.  
 
-This is the first time the 214 sequence has been offered using R, so there will inevitably be some hiccups along the road.  Please be patient - I'm learning along with you!  
+This is the first time the 214 sequence has been offered using R, so there will inevitably be some bumps along the road.  Please be patient - I'm learning along with you!  
+
+#### Why does my code look different from yours?
+
+Unless you are doing something incredibly specialized, there will likely be at *least* 10 different ways and/or packages to get the same solution.  I tend to use the tidyverse suite of packages for basic data wrangling, but that doesn't mean you have to!  Feel free to use whatever packages or code makes the most sense to you.  And, please share it with us so that we can code vicariously through you!
 
 #### Troubleshooting
 
