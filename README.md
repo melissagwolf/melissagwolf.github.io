@@ -4,7 +4,7 @@ My name is [Melissa Wolf](https://melissagwolf.com), and I'll be your TA.  I'm a
 
 ### Learning R
 
-Between 2010 and 2019, I exclusively used the point and click software (SPSS) for data analysis.  I *only* began using R during spring quarter of 2019, and I'm mostly self taught.  I had no coding or programming experience prior to 2019.  
+Between 2010 and 2019, I exclusively used point and click software (SPSS) for data analysis.  I *only* began using R during spring quarter of 2019, and I'm mostly self taught.  I had no coding or programming experience prior to 2019.  
 
 1. If any of this coding stuff seems insurmountable, I promise you: it isn't.  The reason that I know it isn't is because I am somehow doing it.
 2. Yes, it's worth it.  
