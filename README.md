@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Introduction to Statistics!
 
-You can use the [editor on GitHub](https://github.com/melissagwolf/melissagwolf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is [Melissa Wolf](https://melissagwolf.com), and I'll be your TA.  I'm a 5th year PhD student working with Andy Maul.  I'm interested in the design, validation, and analysis of self-report surveys.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Learning R
 
-### Markdown
+Between 2010 and 2019, I exclusively used the point and click software (SPSS) for data analysis.  I *only* began using R during spring quarter of 2019, and I'm mostly self taught.  I had no coding or programming experience prior to 2019.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. If any of this coding stuff seems insurmountable, I promise you: it isn't.  The reason that I know it isn't is because I am somehow doing it.
+2. Yes, it's worth it.  
 
-```markdown
-Syntax highlighted code block
+This is the first time the 214 sequence has been offered using R, so there will inevitably be some hiccups along the road.  Please be patient - I'm learning along with you!  
 
-# Header 1
-## Header 2
-### Header 3
+#### Troubleshooting
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melissagwolf/melissagwolf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When in doubt, Google is your friend.  If you get stuck, I'm  happy to try to help you debug your code.  To figure out what's going wrong, I will probably type your error message and/or query into Google and end up clicking a link that most likely goes to the [stackoverflow](https://stackoverflow.com) website where your question has already been asked and answered by someone much smarter than me.  I encourage you to try that first!  
